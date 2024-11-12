@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Saayonee!</h1>
 
-I'm a software developer with expertise in **Python** and **Java**, and I specialize in building **automation systems**, **computer vision** solutions, and **AI**-powered applications. My projects have ranged from **automating drones** with **Raspberry Pi** to creating real-time systems for **gesture recognition** and **object detection**.
+A passionate Software Developer with expertise in **Python** and **Java**, I specialize in building **automation systems**, **computer vision** solutions, and **AI**-powered applications. My projects have ranged from **automating drones** with **Raspberry Pi** to creating real-time systems for **gesture recognition** and **object detection**.
 
 I’m passionate about leveraging **machine learning** and **data science** to solve complex problems and push the boundaries of technology. Currently, I'm focused on software solutions for **embedded systems** and **robotics**.
 
