@@ -8,11 +8,9 @@ I’m passionate about leveraging **machine learning** and **data science** to s
 - **Autonomous systems** with real-time control and feedback.
 - **Computer vision** algorithms for object detection and tracking.
 
-🌱 Learning more about **AI/ML** integration in **embedded systems** and **automation**.
+## 🛠️ Tools & Technologies
 
-## Tools & Technologies
-
-- **Languages:** Python, Java
+- **Languages:** Python, Java, JavaScript, C
 - **Frameworks & Libraries:** OpenCV, TensorFlow, Keras, Scikit-learn
 - **Automation & Embedded Systems:** Raspberry Pi, ESP32, Arduino
 - **AI & Machine Learning:** TensorFlow, Keras, PyTorch, Scikit-learn
@@ -22,5 +20,6 @@ I’m passionate about leveraging **machine learning** and **data science** to s
 - **Cloud Platforms:** AWS, Google Cloud (for AI and ML projects)
 - **CI/CD Tools:** Jenkins, Docker
 
+🌱 Learning more about **AI/ML** integration in **embedded systems** and **automation**.
 
 📫 Feel free to reach out or check out my latest projects below!
