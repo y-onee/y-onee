@@ -10,15 +10,30 @@ I’m passionate about leveraging **machine learning** and **data science** to s
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python, Java, JavaScript, C
-- **Frameworks & Libraries:** OpenCV, TensorFlow, Keras, Scikit-learn
-- **Automation & Embedded Systems:** Raspberry Pi, ESP32, Arduino
-- **AI & Machine Learning:** TensorFlow, Keras, PyTorch, Scikit-learn
-- **Computer Vision:** OpenCV, YOLO, Image Processing
-- **Robotics:** ROS (Robot Operating System), Drone Control, Gesture Recognition
-- **Version Control:** Git, GitHub
-- **Cloud Platforms:** AWS, Google Cloud (for AI and ML projects)
-- **CI/CD Tools:** Jenkins, Docker
+- **Frameworks & Libraries:** 🔍 OpenCV, 🤖 TensorFlow, 🔗 Keras, 📊 Scikit-learn
+- **Automation & Embedded Systems:** 🦾 Raspberry Pi, 🌐 ESP32, 🔌 Arduino
+- **AI & Machine Learning:** 🤖 TensorFlow, 🔗 Keras, 🧠 PyTorch, 📊 Scikit-learn
+- **Computer Vision:** 👁️ OpenCV, 🦸 YOLO, 🖼️ Image Processing
+- **Robotics:** 🤖 ROS (Robot Operating System), 🚁 Drone Control, ✋ Gesture Recognition
+- **Version Control:** 🔄 Git, 💻 GitHub
+- **Cloud Platforms:** ☁️ AWS, ☁️ Google Cloud (for AI & ML projects)
+- **CI/CD Tools:** 🚀 Jenkins, 🐳 Docker
+
+<h3 align="left">👨‍💻 My Go-To Languages:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
+
+###
 
 🌱 Learning more about **AI/ML** integration in **embedded systems** and **automation**.
 
